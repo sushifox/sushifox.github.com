@@ -437,7 +437,7 @@ a:hover {
   padding-top: 2px; }
   .brand_list li {
     background: none;
-    list-style: circle;
+    list-style-type: circle;
     font-size: 13px;
     padding-bottom: 10px;
     padding-left: 30px;
@@ -449,7 +449,7 @@ a:hover {
   padding-top: 2px; }
   .text_list li {
     background: none;
-    list-style: circle;
+    list-style-type: circle;
     font-size: 13px;
     padding-bottom: 10px;
     padding-left: 30px;
