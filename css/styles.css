@@ -436,7 +436,7 @@ a:hover {
   padding-bottom: 10px;
   padding-top: 2px; }
   .brand_list li {
-    background: url(../images/seed5g.png) 0px 3px no-repeat;
+    background: none;
     list-style: circle;
     font-size: 13px;
     padding-bottom: 10px;
@@ -448,7 +448,7 @@ a:hover {
   padding-bottom: 10px;
   padding-top: 2px; }
   .text_list li {
-    background: url(../images/semibreve2g.png) 0px 4px no-repeat;
+    background: none;
     list-style: circle;
     font-size: 13px;
     padding-bottom: 10px;
